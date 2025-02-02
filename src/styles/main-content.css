@@ -104,7 +104,7 @@
   padding-top: 16px;
   margin: 10px;
   border-radius: 10px;
-  background-color: #dadada;
+  background-color: #242424;
   width:800px;
 }
 
@@ -113,14 +113,14 @@
 }
 
 .playlist #greeting {
-  color: var(--text-base-light);
+  color: #fbfafc;
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 48px;
 }
 
 .playlist .session {
-  color: var(--text-base-light);
+  color: #fffeff;
   font-size: 24px;
   font-weight: 700;
 }
@@ -142,12 +142,12 @@
 /* FIM SCROLL */
 
 .offer__list-item {
-  /* display: grid;
+  display: grid;
   justify-items: center;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 16px;
   gap: 16px;
-  margin-bottom: 16px; */
+  margin-bottom: 16px;
 
   /* CODIGO COM JS CALCULANDO OS CARDS POR COLUNA */
   display: grid;  /* define o modelo de layout do elemento como uma grade */
@@ -175,7 +175,7 @@
   /* absolute:
                           Comportamento em relação ao ancestral posicionado mais próximo ou ao elemento raiz (se nenhum ancestral estiver posicionado).
                           Remove do fluxo normal: O elemento é removido do fluxo normal do documento, o que significa que outros elementos agem como se o elemento não estivesse presente. */
-  color: var(--text-base-light);
+  color: #fff;
   font-size: 24px;
   font-weight: 700;
 }
