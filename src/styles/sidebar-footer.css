@@ -189,12 +189,13 @@ h1{
 
 .premium .premium_title{
     font-weight:700;
+    
 
 }
 
 .premium .premium_subtitle{
     font-weight:500;
-    font-size:12px;
+    font-size:15px;
 }
 
 .premium .premium_button{
