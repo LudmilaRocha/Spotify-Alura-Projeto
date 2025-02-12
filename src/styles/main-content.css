@@ -15,7 +15,8 @@
     padding:16px;
     margin: 10px;
     border-radius:8px;
-    background-color:#121212;
+    background-color:#5065dbc2;
+    width: 130%;
 }
 
 .header_navigation .navigation{
@@ -182,16 +183,16 @@
 
 /* COLOR CARDS */
 .card1 {
-  background-color: rgb(0, 100, 80);
+  background-color: rgb(240, 162, 236);
 }
 .card2 {
-  background-color: rgb(132, 0, 231);
+  background-color: rgb(147, 20, 245);
 }
 .card3 {
   background: rgb(30, 50, 100);
 }
 .card4 {
-  background: rgb(140, 25, 50);
+  background: rgb(109, 208, 233);
 }
 .card5 {
   background: rgb(232, 17, 91);
@@ -265,7 +266,7 @@
   padding: 16px;
   position: relative;
   transition: background-color 0.3s ease;
-  width: 100%;
+  width: 20%;
 }
 
 .artist-card:hover {
